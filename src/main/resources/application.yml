@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: ELASTIC-LOGSTASH-KIBANA
+
+server:
+  port: 9899
+
